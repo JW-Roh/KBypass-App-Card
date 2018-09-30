@@ -1,9 +1,9 @@
 Package: com.peterdev.kbypassappcard
 Name: KBypass App Card
 Depends: mobilesubstrate
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
-Description: KB앱카드의 탈옥을 우회시킵니다.
+Description: KB앱카드의 탈옥감지를 우회시킵니다.
 Maintainer: PeterDev <djperter@icloud.com>
 Author: PeterDev <djperter@icloud.com>
 Section: Tweaks
